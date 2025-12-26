@@ -1,0 +1,26 @@
+﻿user_energy_state;user_emotional_state;available_time_minutes;day_type;last_session_outcome;recent_study_duration_avg;recommended_study_mode;session_completed;perceived_helpfulness;session_duration_actual;timestamp;user_id;system_version
+low;stressed;25;weekday;incomplete;30;break / rest-first;;;;;;
+high;happy;50;weekday;complete;60;focused deep-work;;;;;;
+high;stressed;40;weekend;incomplete;30;practice-based;;;;;;
+low;moderate;50;weekday;complete;40;revision / light review;;;;;;
+medium;happy;30;weekend;incomplete;50;revision / light review;;;;;;
+low;moderate;40;weekday;complete;50;revision / light review;;;;;;
+low;happy;30;weekend;complete;40;short structured;;;;;;
+medium;happy;50;weekend;complete;50;focused deep-work;;;;;;
+low;stressed;50;weekday;complete;60;revision / light review;;;;;;
+medium;stressed;20;weekend;incomplete;45;break / rest-first;;;;;;
+high;moderate;40;weekend;incomplete;30;practice-based;;;;;;
+high;moderate;60;weekend;incomplete;35;practice-based;;;;;;
+medium;happy;40;weekend;complete;25;focused deep-work;;;;;;
+low;moderate;35;weekday;complete;35;revision / light review;;;;;;
+low;moderate;25;weekday;incomplete;50;revision / light review;;;;;;
+low;stressed;60;weekend;complete;45;break / rest-first;;;;;;
+high;happy;50;weekday;complete;45;focused deep-work;;;;;;
+medium;happy;50;weekday;complete;30;focused deep-work;;;;;;
+medium;stressed;50;weekend;incomplete;25;revision / light review;;;;;;
+high;moderate;30;weekday;incomplete;45;short structured;;;;;;
+high;moderate;25;weekday;complete;35;short structured;;;;;;
+high;moderate;25;weekend;incomplete;45;short structured;;;;;;
+high;happy;35;weekend;complete;35;focused deep-work;;;;;;
+low;happy;45;weekend;complete;35;practice-based;;;;;;
+medium;moderate;35;weekend;complete;30;short structured;;;;;;
